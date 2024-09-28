@@ -1,0 +1,20 @@
+
+html{
+    font-size: 22px;
+}
+
+body{
+    background-color: lawngreen;
+    color: black;
+}
+
+table, tr, th, td, caption {
+    /* color: black;
+    background-color: aqua; */
+    border: 1px solid #eee;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: o.5rem;
+    text-align: center;
+}
+
